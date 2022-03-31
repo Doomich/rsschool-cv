@@ -22,5 +22,6 @@
 ~
 ### Education:
 ~
-### English Language:
-**A1**
+### Languages:
+* **Russian** - Native speaker.
+* **English** - A1.
