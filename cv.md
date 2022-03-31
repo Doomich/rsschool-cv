@@ -30,6 +30,7 @@ Worked as a ***system administrator*** for several years.
 * **Togliatti, Lyceum № 36** - 1996-2006.
 * **Togliatti State University** - incomplete higher education (2006-2007).
 * **Samara State Aerospace University, Togliatti Branch** - incomplete higher education (2007-2009).
+
 ### Languages:
 * **Russian** - Native speaker.
 * **English** - A1.
