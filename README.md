@@ -1,1 +1,1 @@
-# rsschool-cv
+https://doomich.github.io/rsschool-cv/cv
